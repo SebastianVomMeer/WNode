@@ -1,0 +1,5 @@
+WNode PHP (X)HTML Generation
+
+WNode is a small and fast PHP library, allowing easy, valid (X)HTML generation within PHP code. Due to its well-defined structure basing on terms already known from HTML you can easily start using it without reading countless documentation pages. Additionally, WNode's chaining ability and strict omitting of get and set keywords is easily legible and space-saving.
+
+WNode was written by Sebastian Gaul in March/April 2011. He studies Computer Science at the University of Rostock in Germany and is one of MGVmedia's executives.
